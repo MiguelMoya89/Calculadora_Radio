@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="lime">#FF00FF00</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="magenta">#FFFF00FF</color>
+    <color name="silver">#FFC0C0C0</color>
+    <color name="gray">#FF808080</color>
+    <color name="maroon">#FF800000</color>
+    <color name="olive">#FF808000</color>
+    <color name="green">#FF008000</color>
+    <color name="purple">#FF800080</color>
+    <color name="teal">#FF008080</color>
+    <color name="navy">#FF000080</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange">#FFFFA500</color>
+    <color name="colorButton1">#FF00FF00</color>
+
+    <!-- 000000000000000000000000000000000000000000 -->
+    <color name="color0">#000000</color> <!-- black -->
+    <color name="color1">#FF0000</color> <!-- red -->
+    <color name="color2">#00FF00</color> <!-- green -->
+    <color name="color3">#0000FF</color> <!-- blue -->
+    <color name="color4">#FF5722</color> <!-- orange -->
+    <color name="color5">#FF00FF</color> <!-- magenta -->
+    <color name="color6">#2196F3</color> <!-- cyan -->
+    <color name="color8">#8352DA</color> <!-- silver -->
+    <color name="color9">#6E6D6D</color> <!-- gray -->
+    <color name="color10">#800000</color> <!-- maroon -->
+    <color name="color11">#808000</color> <!-- olive -->
+    <color name="color12">#008000</color> <!-- green -->
+    <color name="color13">#800080</color> <!-- purple -->
+
+</resources>
